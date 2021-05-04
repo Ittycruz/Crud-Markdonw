@@ -19,6 +19,8 @@ Neste projeto, O grupo 9 desenvolveu, O Crud completo create, read, update e del
 
 
 
-3-
+3- E por último, realizamos o markdown, contendo todas as informações que foram efetuadas no projeto.
+
+È isso! foi feito com muito carinho e dedicação de todos integrantes. atenciosamente grupo 9.
 
 
