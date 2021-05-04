@@ -5,15 +5,13 @@ Neste projeto, O grupo 9 desenvolveu, O Crud completo create, read, update e del
 
 1- dividimos as tarefas pelo trello. Como mostra a imagem abaixo:
 
-<<<<<<< HEAD
 
 
 
 
 
-=======
-[Captura de Tela (258)](https://user-images.githubusercontent.com/71889845/117018241-b2ea4180-acca-11eb-96b2-8dc7a223e032.png)
->>>>>>
+
+
 
 
 2- Usamos este tutorial para efetuar a aplicação web. https://youtu.be/Jny6UH98mPk
