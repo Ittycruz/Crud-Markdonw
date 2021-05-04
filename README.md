@@ -4,3 +4,16 @@ Neste projeto, O grupo 9 desenvolveu, O Crud completo create, read, update e del
 
 
 1- dividimos as tarefas pelo trello. Como mostra a imagem abaixo:
+
+
+
+
+
+
+
+
+
+
+
+
+
